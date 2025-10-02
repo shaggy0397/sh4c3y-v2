@@ -12,6 +12,7 @@
 🔹 Micrófono sin repeticiones  
 🔹 Vista previa ajustada  
 🔹 Íconos táctiles: 👁️ 🎙️ 🛒  
+🔹 Splash animado con QR  
 🔹 Scripts guardianes
 
 🏅 **Mención de honor:**  
