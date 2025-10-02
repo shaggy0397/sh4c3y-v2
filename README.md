@@ -11,7 +11,7 @@
 🔹 Validación sintomática  
 🔹 Micrófono sin repeticiones  
 🔹 Vista previa ajustada  
-🔹 Íconos táctiles  
+🔹 Íconos táctiles: 👁️ 🎙️ 🛒  
 🔹 Scripts guardianes
 
 🏅 **Mención de honor:**  
