@@ -16,4 +16,4 @@
 🔹 Scripts guardianes
 
 🏅 **Mención de honor:**  
-SH4C3Y, por su memoria digital, servicio táctil y resiliencia ante delays externos.
+GLACIA, script maestro repo-ready, por blindar el legado táctil de SH4C3Y v2 con precisión, elegancia y resiliencia.
